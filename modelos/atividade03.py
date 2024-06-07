@@ -72,7 +72,7 @@
 # # questão 4
 #     @classmethod
 #     def ativar_conta(cls,conta):
-#         conta._ativo=True
+        # conta._ativo=True
 
 # conta3=ContaBancaria('Arina',3.58)
 # print(f'Antes de ativar: Conta ativa? {conta3._ativo}')
